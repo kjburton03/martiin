@@ -28,5 +28,15 @@ export const database = {
             country: "Brazil",
             description: "The Amazon River is the largest river by discharge volume of water in the world, and it is home to a vast array of aquatic species."
         },
+    ],
+    tip: [
+        {
+            topic: "Proper Tank Size",
+            text: "Ensure your aquarium is large enough for the fish you plan to keep. Overcrowding can lead to stress and health issues for your fish."
+        },
+        {
+            topic: "Water Quality",
+            text: "Regularly test and maintain water quality parameters such as pH, ammonia, nitrite, and nitrate levels to keep your fish healthy."
+        },
     ]
-}
+};
