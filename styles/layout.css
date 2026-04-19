@@ -1,0 +1,24 @@
+main {
+  display: grid;
+  grid-template-columns: 2fr 1fr; /* left bigger, right smaller */
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Left side container behavior */
+#fishList {
+  grid-column: 1;
+}
+
+#locationList {
+  grid-column: 1;
+}
+
+/* Right side (tips) */
+#tipList {
+  grid-column: 2;
+  background-color: #f4f4f4;
+  padding: 15px;
+  border-radius: 8px;
+}
+
