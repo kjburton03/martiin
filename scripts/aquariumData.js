@@ -16,6 +16,86 @@ export const database = {
             diet: "Omnivore",
             image: "https://example.com/images/dory.jpg"
         },
+                {
+            name: "Bubbles",
+            species: "Yellow Tang",
+            length: 6,
+            location: "Hawaii",
+            diet: "Herbivore",
+            image: "https://i.imgur.com/6xrNKVi.jpeg"
+        },
+        {
+            name: "Stripe",
+            species: "Zebra Danio",
+            length: 2,
+            location: "India",
+            diet: "Omnivore",
+            image: "https://example.com/images/zebra-danio.jpg"
+        },
+        {
+            name: "Shadow",
+            species: "Black Molly",
+            length: 4,
+            location: "Mexico",
+            diet: "Omnivore",
+            image: "https://example.com/images/black-molly.jpg"
+        },
+        {
+            name: "Flash",
+            species: "Neon Tetra",
+            length: 1.5,
+            location: "Amazon River",
+            diet: "Omnivore",
+            image: "https://example.com/images/neon-tetra.jpg"
+        },
+        {
+            name: "Spike",
+            species: "Pufferfish",
+            length: 8,
+            location: "Pacific Ocean",
+            diet: "Carnivore",
+            image: "https://example.com/images/pufferfish.jpg"
+        },
+        {
+            name: "Goldie",
+            species: "Goldfish",
+            length: 6,
+            location: "China",
+            diet: "Omnivore",
+            image: "https://example.com/images/goldfish.jpg"
+        },
+        {
+            name: "Finn",
+            species: "Betta",
+            length: 3,
+            location: "Thailand",
+            diet: "Carnivore",
+            image: "https://example.com/images/betta.jpg"
+        },
+        {
+            name: "Coral",
+            species: "Angelfish",
+            length: 7,
+            location: "Caribbean Sea",
+            diet: "Omnivore",
+            image: "https://example.com/images/angelfish.jpg"
+        },
+        {
+            name: "Dash",
+            species: "Swordtail",
+            length: 5,
+            location: "Central America",
+            diet: "Omnivore",
+            image: "https://example.com/images/swordtail.jpg"
+        },
+        {
+            name: "Pebble",
+            species: "Corydoras",
+            length: 2.5,
+            location: "South America",
+            diet: "Omnivore",
+            image: "https://example.com/images/corydoras.jpg"
+        },
     ],
     location: [
         {

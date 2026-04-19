@@ -6,7 +6,7 @@ export const generatefishHTML = () => {
     for (const fish of database.fish) {
         fishHTML += `
         <article class="fish">
-            <img src="${fish.image}" alt="${fish.name}">
+            <img class="movie"src="${fish.image}" alt="${fish.name}">
             <h2>${fish.name}</h2>
             <div class="fishBody">
                 <p><strong>Species:</strong> ${fish.species}</p>
